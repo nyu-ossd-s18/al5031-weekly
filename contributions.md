@@ -10,7 +10,8 @@
 | 11 | https://github.com/trufflesuite/truffle/issues/715 | commented on an issue (1) |
 | 11 | https://github.com/ethereum/web3.js/issues/1043 | commented on an issue (1) |
 | 12 | https://en.wikipedia.org/w/index.php?title=Gallatin_School_of_Individualized_Study&diff=prev&oldid=837937166 | Wikipedia |
+| 12 | https://en.wikipedia.org/w/index.php?title=Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador&diff=837938195&oldid=837800170 | Wikipedia |
 
 
 # Balance 
-9
+10
