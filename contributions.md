@@ -7,9 +7,10 @@
 |       6       | https://github.com/joannakl/cs480_s18/issues/35 | small x 3 - submitted a PR, submitted an issue, commented|
 | 8 | https://github.com/CodeandoMexico/codeandomexico.org/issues/4     |   submitted an issue (1) |
 | 11 | https://github.com/trufflesuite/truffle/issues/596#issuecomment-381375184 | commented on an issue (1) |
-| 11 | 
+| 11 | https://github.com/trufflesuite/truffle/issues/715 | commented on an issue (1) |
+| 11 | https://github.com/ethereum/web3.js/issues/1043 | commented on an issue (1) |
 
 
 
 # Balance 
-6
+8
