@@ -16,3 +16,4 @@
 |22 | 14     | [Issue](https://github.com/CodeandoMexico/codeandomexico.org/issues/5) | Codeando México Website |
 |23 | 14     | [Comment](https://github.com/CodeandoMexico/codeandomexico.org/pull/2) | Codeando México Website |
 | 23, 24, 25, 26, 27, 28, 29, 30 | 14      | [OpenStreetMap](https://www.openstreetmap.org/changeset/58933891#map=16/32.5023/-117.0040) | Tijuana, México OpenStreetMap |
+| 31 | 14 | [Course Website (issue)] (https://github.com/joannakl/cs480_s18/issues/118) | Course Website Fix |
