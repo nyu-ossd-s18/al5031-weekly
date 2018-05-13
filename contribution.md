@@ -7,10 +7,10 @@ permalink: /contributions/
 | Contribution # | Week # | Contribution | Contribution Type |
 | -------------- | ------ | ------------ | ----------------- |
 | 1 | 3      | [Article edit](https://en.wikipedia.org/w/index.php?title=Gast%C3%B3n_Luken_Garza&diff=prev&oldid=825156571) | Wikipedia |
-| 2 | 9      | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
-| 3 | 10     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
+| 2 | 6      | [Course Website (issue, comment, PR](https://github.com/joannakl/cs480_s18/issues/35) | Wikipedia |
+| 3 | 8     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
 | 4 | 11     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
-| 5 | Finals | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
+| 5 | 11 | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
 | 6 | 11     | [Comment](https://github.com/joannakl/cs480_s18/issues/25) | Course Website |
 | 7 | 4      | [Comment](https://github.com/joannakl/cs480_s18/issues/77) | Course Website |
 | 8 | 4      | [Pull Request](https://github.com/joannakl/cs480_s18/pull/83) | Course Website |
