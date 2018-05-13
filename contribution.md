@@ -16,13 +16,6 @@ permalink: /contributions/
 | 10 | 12      | [Article Edit](https://en.wikipedia.org/w/index.php?title=Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador&diff=837938195&oldid=837800170) | Wikipedia |
 | 11 | 12 | [Article Edit](https://github.com/CodeandoMexico/codeandomexico.org/issues/5) | Wikipedia |
 |12, 13, 14, 15, 16, 17, 18, 19, 20 | 14      | [OpenStreetMap](https://www.openstreetmap.org/changeset/58915416#map=14/32.5146/-116.9853) | Tijuana, México OpenStreetMap |
-|11 | 3      | [Issue](https://github.com/joannakl/cs480_s18/issues/39) | Course Website |
-|12 | 4      | [Comment](https://github.com/joannakl/cs480_s18/pull/65) | Course Website |
-|13 | 12     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/58) | Other |
-|14 | 12     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/112) | Other |
-|15 | 12     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/119) | Other |
-|16 | 12     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/119) | Other |
-|17 | 12     | [Pull Request](https://github.com/photonstorm/phaser3-examples/pull/132) | Other |
-|18 | 13     | [Pull Request](https://github.com/photonstorm/phaser3-examples/pull/143) | Other |
-|19 | 13     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/137) | Other |
-|20 | 13     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/65) | Other |
+|21 | 14      | [Issue](https://github.com/rg3/youtube-dl/issues/16438) | CodeTriage.com - YoutubeDl |
+|22 | 14     | [Issue](https://github.com/CodeandoMexico/codeandomexico.org/issues/5) | Codeando México Website |
+|23 | 14     | [Comment](https://github.com/CodeandoMexico/codeandomexico.org/pull/2) | Codeando México Website |
