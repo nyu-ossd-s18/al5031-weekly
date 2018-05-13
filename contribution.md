@@ -7,9 +7,9 @@ permalink: /contributions/
 | Contribution # | Week # | Contribution | Contribution Type |
 | -------------- | ------ | ------------ | ----------------- |
 | 1 | 3      | [Article edit](https://en.wikipedia.org/w/index.php?title=Gast%C3%B3n_Luken_Garza&diff=prev&oldid=825156571) | Wikipedia |
-| 2 | 6      | [Course Website (issue, comment, PR](https://github.com/joannakl/cs480_s18/issues/35) | Wikipedia |
-| 3 | 8     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
-| 4 | 11     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
+| 2 | 6      | [Course Website (issue, comment, PR)](https://github.com/joannakl/cs480_s18/issues/35) | Course Website Fix |
+| 3 | 8     | [Issue](https://github.com/CodeandoMexico/codeandomexico.org/issues/4) | Codeando México Open Source |
+| 4 | 11     | [Comment](https://github.com/trufflesuite/truffle/issues/596#issuecomment-381375184) | Truffle Open Source |
 | 5 | 11 | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
 | 6 | 11     | [Comment](https://github.com/joannakl/cs480_s18/issues/25) | Course Website |
 | 7 | 4      | [Comment](https://github.com/joannakl/cs480_s18/issues/77) | Course Website |
