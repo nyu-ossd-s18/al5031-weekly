@@ -1,8 +1,4 @@
----
-layout: page
-title: Contributions
-permalink: /contributions/
----
+# Contributions in part of Open Source Software Development 2018 - New York University
 
 | Contribution # | Week # | Contribution | Contribution Type |
 | -------------- | ------ | ------------ | ----------------- |
