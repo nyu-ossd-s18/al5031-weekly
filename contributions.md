@@ -16,4 +16,4 @@
 |22 | 14     | [Issue](https://github.com/CodeandoMexico/codeandomexico.org/issues/5) | Codeando México Website |
 |23 | 14     | [Comment](https://github.com/CodeandoMexico/codeandomexico.org/pull/2) | Codeando México Website |
 | 23, 24, 25, 26, 27, 28, 29, 30 | 14     | [OpenStreetMap] (https://www.openstreetmap.org/changeset/58933891#map=16/32.5023/-117.0040) | Tijuana, México OpenStreetMap |
-|12, 13, 14, 15, 16, 17, 18, 19, 20 | 14      | [OpenStreetMap](https://www.openstreetmap.org/changeset/58915416#map=14/32.5146/-116.9853) | Tijuana, México OpenStreetMap |
+| 23, 24, 25, 26, 27, 28, 29, 30 | 14      | [OpenStreetMap](https://www.openstreetmap.org/changeset/58933891#map=16/32.5023/-117.0040) | Tijuana, México OpenStreetMap |
