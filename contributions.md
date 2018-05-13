@@ -12,7 +12,8 @@
 | 12 | https://en.wikipedia.org/w/index.php?title=Gallatin_School_of_Individualized_Study&diff=prev&oldid=837937166 | Wikipedia |
 | 12 | https://en.wikipedia.org/w/index.php?title=Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador&diff=837938195&oldid=837800170 | Wikipedia |
 | 14 | https://github.com/CodeandoMexico/codeandomexico.org/issues/5 | submitted an issue (1) |
+| 14 | https://www.openstreetmap.org/changeset/58915416#map=14/32.5146/-116.9853 | OpenStreetMap (9) |
 
 
 # Balance 
-11
+20
